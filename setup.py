@@ -36,7 +36,7 @@ setup(
     author='Jannis Leidel',
     author_email='jannis@leidel.info',
     packages=['memcached_hashring'],
-    install_requires=['python-memcache', 'hash_ring'],
+    install_requires=['python-memcached', 'hash_ring'],
     classifiers=[
         'Development Status :: 4 - Beta',
         'Framework :: Django',
