@@ -31,7 +31,7 @@ setup(
     version=find_version("memcached_hashring", "__init__.py"),
     url='http://github.com/jezdez/django-memcached-hashring',
     license='BSD',
-    description="A Django cache backend for Memcached with consistent consistent hashing.",
+    description="A Django cache backend for Memcached with consistent hashing.",
     long_description=read('README.rst'),
     author='Jannis Leidel',
     author_email='jannis@leidel.info',
